@@ -73,15 +73,15 @@
 
 ## 📌 Featured Projects
 
-### 🌞 SunCart
-A modern e-commerce web application for summer essentials.
+### 🏠 RentNest
+Property Rental & Booking Platform.
 
-- 🔗 **Repository:** https://github.com/HabibaMim/suncart
-- 🌐 **Live Demo:** https://suncart-six-tan.vercel.app
+- 🔗 **Repository:** https://github.com/HabibaMim/B13-A10-client
+- 🌐 **Live Demo:** https://rentnest-snowy.vercel.app
 
 ---
 
-### 🏠 StudyNook
+### 📚 StudyNook
 A property rental and booking platform with role-based features.
 
 - 🔗 **Repository:** https://github.com/HabibaMim/B13-A9-client
@@ -89,8 +89,8 @@ A property rental and booking platform with role-based features.
 
 ---
 
-### 🏠 StudyNook
-A property rental and booking platform with role-based features.
+### ☀️ SunCart
+A modern e-commerce web application for summer essentials.
 
-- 🔗 **Repository:** https://github.com/HabibaMim/studynook-client
-- 🌐 **Live Demo:** https://your-demo-link.com
+- 🔗 **Repository:** https://github.com/HabibaMim/B13-A8
+- 🌐 **Live Demo:** https://suncart-six-tan.vercel.app/
