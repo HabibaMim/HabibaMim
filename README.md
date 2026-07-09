@@ -76,9 +76,8 @@
 ### 🏠 RentNest
 Property Rental & Booking Platform.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge)](https://rentnest-snowy.vercel.app)
-
-[![Repository](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/HabibaMim/B13-A10-client)
+- 🔗 **Repository:** https://github.com/HabibaMim/B13-A10-client
+- 🌐 **Live Demo:** https://rentnest-snowy.vercel.app
 
 ---
 
