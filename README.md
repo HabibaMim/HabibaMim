@@ -25,7 +25,6 @@
 
 - 🌱 Exploring **Next.js**
 - 💻 Building responsive web applications
-- 🧩 Solving problems on LeetCode
 - 📚 Continuously improving my JavaScript and React skills
 
 ---
