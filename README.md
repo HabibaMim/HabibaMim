@@ -1,10 +1,12 @@
 # Hi there! 👋
 
 [<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8E7CC3&height=220&section=header&text=Habiba%20Kumkum%20Mim&fontSize=45&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8E7CC3&height=220&section=header&text=Habiba%20Kumkum%20Mim&fontSize=45&fontColor=ffffff"/>
 </p>
 
-<h2 align="center">Front-End Developer</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&color=FFFFFF&center=true&vCenter=true&width=400&lines=Front-End+Developer"/>
+</p>
 
 # Habiba Kumkum Mim
 
