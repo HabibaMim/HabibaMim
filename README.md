@@ -53,14 +53,10 @@
 
 ## 🌐 Connect With Me
 
-<p>
-<a href="https://github.com/HabibaMim">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/habibakumkum/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+<p align="center">
+  <a href="https://github.com/HabibaMim"><img src="https://skillicons.dev/icons?i=github" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/habibakumkum/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
 ---
