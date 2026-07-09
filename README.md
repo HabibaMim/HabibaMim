@@ -73,16 +73,24 @@
 
 ## 📌 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/HabibaMim/B13-A10-client">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HabibaMim&repo=B13-A10-client&theme=tokyonight" />
-  </a>
+### 🏠 RentNest
+Property Rental & Booking Platform.
 
-  <a href="https://github.com/HabibaMim/B13-A9-client">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HabibaMim&repo=B13-A9-client&theme=tokyonight" />
-  </a>
+- 🔗 **Repository:** https://github.com/HabibaMim/B13-A10-client
+- 🌐 **Live Demo:** https://rentnest-snowy.vercel.app
 
-  <a href="https://github.com/HabibaMim/B13-A8">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HabibaMim&repo=B13-A8&theme=tokyonight" />
-  </a>
-</p>
+---
+
+### 📚 StudyNook
+A property rental and booking platform with role-based features.
+
+- 🔗 **Repository:** https://github.com/HabibaMim/B13-A9-client
+- 🌐 **Live Demo:** https://studynook-liart-rho.vercel.app
+
+---
+
+### ☀️ SunCart
+A modern e-commerce web application for summer essentials.
+
+- 🔗 **Repository:** https://github.com/HabibaMim/B13-A8
+- 🌐 **Live Demo:** https://suncart-six-tan.vercel.app/
