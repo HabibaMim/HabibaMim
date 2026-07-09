@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8E7CC3&height=220&section=header&text=Mim%20Y&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+[<img src="https://capsule-render.vercel.app/api?type=waving&color=8E7CC3&height=250&section=header&text=Habiba%20Kumkum%20Mim%0AFront-End%20Developer&fontSize=40&fontColor=ffffff" width="100%" />
 
 # Habiba Kumkum Mim
 
