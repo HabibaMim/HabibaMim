@@ -1,11 +1,11 @@
 
 
-[<p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8E7CC3&height=220&section=header&text=Front%20-End%20Developer&fontSize=45&fontColor=ffffff" width="100%" />
 </p>
 
 
-# Hi👋 I'm Habiba Kumkum Mim
+### Hi👋 I'm Habiba Kumkum Mim
 
 ### Front-End Developer
 
