@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8E7CC3&height=220&section=header&text=Front%20-End%20Developer&fontSize=45&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8E7CC3&height=220&section=header&text=MERN%20Stack%20Developer&fontSize=45&fontColor=ffffff" width="100%" />
 </p>
 
 
